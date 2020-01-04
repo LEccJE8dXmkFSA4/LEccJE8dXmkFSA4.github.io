@@ -1848,7 +1848,8 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #4acaa8;
+			/* border-color: #4acaa8; */
+			border-color: #007b43;
 		}
 
 	select {
@@ -2618,7 +2619,8 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #4acaa8;
+			/* background-color: #4acaa8; */
+			background-color: #007b43;
 			color: #ffffff !important;
 		}
 
